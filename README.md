@@ -1,4 +1,4 @@
-<img width="864" height="446" alt="image" src="https://github.com/user-attachments/assets/b5dc05df-c36d-4bbd-a008-57cb1c795b53" /># Ex.08 Design of Interactive Image Gallery
+
 # Date:13-12-2025
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
